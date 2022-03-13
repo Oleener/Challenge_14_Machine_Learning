@@ -43,21 +43,21 @@ Jupyter lab should launch in a web browser, if it doesnt select one one of the h
 
 ## Tune the Baseline Trading Algorithm
 
-### Tune the training algorithm by adjusting the size of the training dataset. 
+### Adjusted Training Dataset Model
 
 What impact resulted from increasing or decreasing the training window? 
 
-[1](picurl)
+![adjusted](https://github.com/Oleener/Challenge_14_Machine_Learning/blob/main/Models/Adjusted%20Traing%20dataset.png)
 
-### Tune the trading algorithm by adjusting the SMA input features. 
+### Adjusted SMA Input Model
 
 What impact resulted from increasing or decreasing either or both of the SMA windows?
 
-[1](picurl)
+![SMA](https://github.com/Oleener/Challenge_14_Machine_Learning/blob/main/Models/Adjusted%20SMA%20Imput.png)
 
-### Choose the set of parameters that best improved the trading algorithm returns.
+### Parameters that best improved the trading algorithm returns
 
-[1](picurl)
+![Model_3](https://github.com/Oleener/Challenge_14_Machine_Learning/blob/main/Models/Model_3.png)
 
 ---
 
@@ -70,6 +70,10 @@ What impact resulted from increasing or decreasing either or both of the SMA win
 ![Model_2](https://github.com/Oleener/Challenge_14_Machine_Learning/blob/main/Models/Model_2.png)
 
 ### Conclusion 
+
+After increasing the training window from 3 months to 24 there was a significant change in plot. In the plot it is visable that the actual returns and strategy returns had a strong correlation in the begining however after about 2020 they began widening. When comparing this model to the baseline performance model this model began widening much later. Resulting in a higher return then the baseline performance model.   
+
+
 
 Did this new model perform better or worse than the provided baseline model? 
 
