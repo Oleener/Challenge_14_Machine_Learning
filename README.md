@@ -47,7 +47,7 @@ Jupyter lab should launch in a web browser, if it doesnt select one one of the h
 
 What impact resulted from increasing or decreasing the training window? 
 
-[!](pic url)
+[1](picurl)
 
 ### Tune the trading algorithm by adjusting the SMA input features. 
 
@@ -64,10 +64,10 @@ What impact resulted from increasing or decreasing either or both of the SMA win
 ## Evaluation Report
 
 ### Baseline Performance Model 
-[Model_1](https://github.com/Oleener/Challenge_14_Machine_Learning/blob/main/Models/Model_1.png)
+![Model_1](https://github.com/Oleener/Challenge_14_Machine_Learning/blob/main/Models/Model_1.png)
 
 ### New Machine Learning Classifier Model
-[Model_2](https://github.com/Oleener/Challenge_14_Machine_Learning/blob/main/Models/Model_2.png)
+![Model_2](https://github.com/Oleener/Challenge_14_Machine_Learning/blob/main/Models/Model_2.png)
 
 ### Conclusion 
 
