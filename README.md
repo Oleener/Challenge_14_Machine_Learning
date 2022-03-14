@@ -71,14 +71,7 @@ What impact resulted from increasing or decreasing either or both of the SMA win
 
 ### Conclusion 
 
-After increasing the training window from 3 months to 24 there was a significant change in plot. In the plot it is visable that the actual returns and strategy returns had a strong correlation in the begining however after about 2020 they began widening. When comparing this model to the baseline performance model this model began widening much later. Resulting in a higher return then the baseline performance model.   
-
-
-
-Did this new model perform better or worse than the provided baseline model? 
-
-Did this new model perform better or worse than your tuned trading algorithm?
-
+After increasing the training window from 3 months to 24 there was a significant change in the plot. When Looking at the plot it is visable that the actual returns and strategy returns had a strong correlation in the begining however after about 2020 they began widening. When comparing this model to the baseline performance model this model began widening much later. Resulting in a higher return then the baseline performance model. To tune the trading algorithm by adjusting the SMA input features, I decided to increase both of the SMA windows. I increased the short window to 50 and long window to 200 during a 3 month period. The model significantly improved. Both the actual returns and strategy returns were in a strong correlation of one another. This model performed significantly better then the baseline performance model. After tightening the training window and tweaking the SMA inputs resulted in some improvement but the model is still only showing predictive strength through limited slices of the time series. Overall the New Model Performed better than the provided baseline model. However when comparing the new model to the tuned trading algorithm model it is only showing predictive strength through limited slices of the time series. 
 
 ---
 
